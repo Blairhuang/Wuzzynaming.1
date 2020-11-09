@@ -1,9 +1,5 @@
 # Wuzzynaming.1
 
-
-
-#WuzzyNaming test
-
 #----------User Input Interface----------------------------------
 print('do you want to build your custom corpus or use Build_in corpus?')
 build=input('')
@@ -58,11 +54,5 @@ print(standard(FUNCTION,DESCRIPTION,SECTOR,input_ownership,combined_dict)) #pres
 #----------Function_Synonym Result----------------------------------
 Function_synonym= Synonym_Function(FUNCTION,noun_lst,tolerance) 
 print(Function_synonym)
-
-
-##Find the system to eveluate the result 
-
-
-#input change_room 
 
 
